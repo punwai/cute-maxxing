@@ -1,10 +1,6 @@
 # 
 # minimalistic implementation of Flash Attention 3 for learning purposes.
 # 
-# note: there is zero reason that you would not be able to execute on this within 1 day.
-# you've basically learned all the fundamentals. if you need to uncover something more,
-# you know the playbook. just isolate the component, make minimal tests, play around with it.
-
 # what does this lack?
 # - no attention masking
 # - no persistent kernel scheduling
